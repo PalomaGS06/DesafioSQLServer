@@ -1,4 +1,4 @@
-# Desafio SQLS erver
+# Desafio SQL Server
 Desafio realizado na linguagem SQL e utilizando diagramas Conceitual e Lógico. 
 
 ## Abreviações:
@@ -13,7 +13,7 @@ Desafio realizado na linguagem SQL e utilizando diagramas Conceitual e Lógico.
 
 ## Tecnologias utilizadas:
 - Microsoft SQL Server Management Studio 18;
-- Draw-io = App Diagrams;
+- Draw-io = App Diagrams.
 
 
 
